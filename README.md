@@ -1,5 +1,5 @@
-# ![Icon](https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png =250x250) Develop a Kubernetes app with Knative
-<img src="https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png" width="100">
+<img src="https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png" width="100"> Develop a Kubernetes app with Knative
+
 
 ### Continuously deliver a secure Docker app to a Kubernetes Cluster using a Knative pipeline
 This Hello World application uses Docker, Kubernetes and Knative in a DevOps toolchain preconfigured for continuous delivery to a Kubernetes cluster. 
