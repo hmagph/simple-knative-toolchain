@@ -1,4 +1,4 @@
-# ![Icon](./.bluemix/secure-lock-helm.png) Develop a Kubernetes app with Knative
+# ![Icon](https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png) Develop a Kubernetes app with Knative
 
 
 ### Continuously deliver a secure Docker app to a Kubernetes Cluster using a Knative pipeline
