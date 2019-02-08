@@ -1,4 +1,4 @@
-# ![Icon](https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png | width=100) Develop a Kubernetes app with Knative
+# ![Icon](https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png =250x250) Develop a Kubernetes app with Knative
 
 
 ### Continuously deliver a secure Docker app to a Kubernetes Cluster using a Knative pipeline
