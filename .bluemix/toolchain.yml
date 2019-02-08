@@ -36,11 +36,11 @@ services:
       type: Delivery Pipeline Knative
       lifecyclePhase: "DELIVER"
       imageUrl: https://raw.githubusercontent.com/knative/docs/master/images/logo/rgb/knative-logo-rgb.png
-      documentationUrl: 
+      documentationUrl: ''
       name: simple-pipeline
       dashboard_url: http://localhost:4000/pipelines/simple-pipeline/runs/latest
       description: Knative pipeline
-      additional-properties: 
+      additional-properties: ''
   webide:
     service_id: orion
 
